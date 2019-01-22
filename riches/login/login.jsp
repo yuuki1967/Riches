@@ -12,12 +12,13 @@ response.setDateHeader ("Expires", 0); //prevents caching at the proxy server
 <title>RWI - Riches Wealth International Home Page</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Type" content="text/html" />
-<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE"/> 
+<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE"/>
 <script language="javascript">AC_FL_RunContent = 0;</script>
 <script src="<s:url value="/js/AC_RunActiveContent.js"/>" language="javascript"></script>
 <link rel="stylesheet" type="text/css" href="<s:url value="/css/rwi-2.css"/>" />
 <link rel="shortcut icon" href="<s:url value="/img/favicon.ico"/>" />
 </head>
+
 <body>
 <br />
 <table cellpadding="0" cellspacing="0" id="content" border="0" align="center">
@@ -62,7 +63,7 @@ response.setDateHeader ("Expires", 0); //prevents caching at the proxy server
 										<td id="signon_title">RWi Online Banking</td>
 									</tr>
 									<tr valign="top">
-<%--                                        
+<%--
                                         <td id="accounts" width="100%" height="30"><form action="" method="post" name="signon" >
 												<label for="accounts">Go to</label>
 												:&nbsp;
@@ -200,7 +201,7 @@ response.setDateHeader ("Expires", 0); //prevents caching at the proxy server
 										<param name="allowFullScreen" value="false" />
 										<param name="movie" value="rwi-1.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="<s:url value="/rwi-1.swf" includeParams="none"/>" quality="high" bgcolor="#ffffff" width="731" height="194" name="rwi-1" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 										</object>
-									</noscript> 
+									</noscript>
 								</td>
 							</tr>
 							<tr valign="top" class="links">
