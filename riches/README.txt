@@ -6,9 +6,6 @@ TOMCAT_HOME is your top level tomcat directory
 
 ## FIRST TIME SETUP ##
 
-
-
-
 copy WEB-INF/lib/hsqldb.jar to ${TOMCAT_HOME}/common/lib
 
 
