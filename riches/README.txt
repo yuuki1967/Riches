@@ -23,7 +23,6 @@ start tomcat
 browse to http://localhost:8080/riches
 login with admin/admin, eddie/eddie, gary/gary or another profile defined in create_db.sql
 
-
 ## REDEPLOYING ##
 stop tomcat ()
 delete ${TOMCAT_HOME}/webapps/riches (delete the whole directory)
