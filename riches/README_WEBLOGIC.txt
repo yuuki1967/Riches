@@ -11,6 +11,7 @@ make sure to select a jdk version that matches what you built riches with. I use
 
 2b)
 -go into the weblogic admin console services->jdbc->data sources
+
 -create a new datasource 
    name: jdbc/riches
    URL: jdbc:mysql://localhost:3306/riches
