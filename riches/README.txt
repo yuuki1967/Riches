@@ -5,7 +5,6 @@ Riches requires Java 5.
 TOMCAT_HOME is your top level tomcat directory
 
 ## FIRST TIME SETUP ##
-
 copy WEB-INF/lib/hsqldb.jar to ${TOMCAT_HOME}/common/lib
 
 For Tomcat 5.0, rename TOMCAT_HOME/common/endorsed/xml-apis.jar to xml-apis.jar.ba
