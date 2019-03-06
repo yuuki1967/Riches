@@ -11,6 +11,7 @@ For Tomcat 5.0, rename TOMCAT_HOME/common/endorsed/xml-apis.jar to xml-apis.jar.
 
 
 ## BUILDING AND RUNNING THE APPLICATION ##
+
 run ant in this directory
 
 copy dist/riches.war to ${TOMCAT_HOM
