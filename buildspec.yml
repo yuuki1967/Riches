@@ -8,6 +8,7 @@ phases:
     commands:
       - echo Build completed on `date`
       - tar -cvzf riches.tgz .
+      
 artifacts:
   files:
     - riches.tgz
