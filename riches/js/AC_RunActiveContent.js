@@ -5,7 +5,7 @@
 var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
 var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
 var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
-//test
+//test test
 function ControlVersion()
 {
 	var version;
